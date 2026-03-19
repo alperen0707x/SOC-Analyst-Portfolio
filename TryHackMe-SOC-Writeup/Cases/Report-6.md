@@ -1,7 +1,6 @@
 INCIDENT TICKET: Inbound Spam / Advance-Fee Scam Attempt
 
 Date: February 18, 2026
-Analyst: [Your Name]
 Verdict: True Positive – Spam (Low Severity)
 
 
