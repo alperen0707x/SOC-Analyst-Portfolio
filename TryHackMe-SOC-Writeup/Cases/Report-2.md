@@ -23,7 +23,7 @@ Here is what I found:
 * **Folder Path:** `C:\Windows\system32\`
 
 *(Splunk Evidence)*
-`![Sysmon Log Details](../Images/2-sysmon-log.png)`
+`![Sysmon Log Details](../Images/2-splunk-log.png)`
 
 ### 2. Analyzing the Behavior (Why it's not suspicious)
 To determine if this is malicious, I asked myself a few questions:
